@@ -103,11 +103,10 @@ class Huawei:
 
     def run(self):
         self.huawei.mainloop()
+if __name__ == '__main__':
+    newhuawei = Huawei()
+    newhuawei.config()
+    newhuawei.framederecho()
+    newhuawei.msgwelcome()
+    newhuawei.run()
 
-newhuawei = Huawei()
-newhuawei.config()
-newhuawei.framederecho()
-newhuawei.msgwelcome()
-newhuawei.run()
-
-seofhoehfoiheoihfio
