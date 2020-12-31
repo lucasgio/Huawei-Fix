@@ -109,3 +109,5 @@ newhuawei.config()
 newhuawei.framederecho()
 newhuawei.msgwelcome()
 newhuawei.run()
+
+seofhoehfoiheoihfio
